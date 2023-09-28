@@ -12,7 +12,7 @@
 # Snake_case: Variabes
 # Dott.ed: Functions
 #-------------------------------------------------------------------------------
-# Begin here!!!
+# Begin here!!
 
 # The program would use the following packages
 
