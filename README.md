@@ -14,6 +14,7 @@ access the database).
 1.2 Program functionality, input and output
 To use this program, open Main file.R and start an R project in the existing directory. This
 displays 4 windows, only 3 of which would be required:
+
 • Top left (Main file.R): This is where codes would be executed. Place the cursor on line 16
 to begin.
 • Bottom left: Text and tabular output would be displayed here. If input is required,
