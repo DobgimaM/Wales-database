@@ -4,6 +4,7 @@ Database of practices in Wales
 **Introduction**
 This manual contains instructions for processing and reporting data from a database generated
 using the following:
+
 • General Practice Prescribing Data Extract for Wales
 (http://www.primarycareservices.wales.nhs.uk/general-practice-prescribing-dataextrac)
 • QOF Results for Wales, 2015 (https://www.gpcontract.co.uk/browse/WAL/15)
@@ -17,9 +18,11 @@ displays 4 windows, only 3 of which would be required:
 
 • Top left (Main file.R): This is where codes would be executed. Place the cursor on line 16
 to begin.
+
 • Bottom left: Text and tabular output would be displayed here. If input is required,
 instructions would be displayed here too. Type text and press the ‘Enter’ key on the
 keyboard to add input.
+
 • Bottom right: Graphical output would be displayed here.
 Note: Some tables would open in a new tab for better appreciation of the data. Once you are
 done examining the data, return to Main file.R and continue.
