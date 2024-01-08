@@ -26,6 +26,8 @@ keyboard to add input.
 • Bottom right: Graphical output would be displayed here.
 Note: Some tables would open in a new tab for better appreciation of the data. Once you are
 done examining the data, return to Main file.R and continue.
+<br>
+
 To run the code, place the cursor on line 16 and click the button at the top right of the
 Main file.R window. Run the code until output is displayed or input is required, pausing between
 runs until the stop sign ( ) disappears from the bottom left window. Continue running the
